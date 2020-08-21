@@ -7,6 +7,9 @@
 C'est une exercice sur le REST API en utilisant le gem HTTParty.
 On va se référencer sur le célèbre jeu ***Dofus*** en utilisant une API "[**dofapi.fr**](https://dofapi.fr) "pour faire une chasse aux monstres.
 
+![Logo Dofus](https://user-images.githubusercontent.com/64235065/90918940-0fbff900-e3d5-11ea-870c-ea7e2245e1a4.png)
+
+
 **Avant de lancer le programme**
 Il faut tout d'abord lancer la commande suivante afin que les commandes dans le Gemfile installe les composants nécessaires pour démarrer le programme
 ```bash
